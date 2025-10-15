@@ -47,8 +47,8 @@ Incluye:
 ---
 
 ## 📸 Vista Previa
+<img width="858" height="983" alt="image" src="https://github.com/user-attachments/assets/af3b709a-fcff-4852-af7d-4f682790ccc5" />
 
-![Vista previa del sitio](img/imagen1.png)
 
 ---
 
