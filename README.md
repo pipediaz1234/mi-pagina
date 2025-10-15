@@ -29,13 +29,8 @@ Incluye:
 ---
 
 ## 🧱 Estructura del Proyecto
+<img width="443" height="195" alt="image" src="https://github.com/user-attachments/assets/8d254896-d39e-45d7-b19c-ea03ba34b92f" />
 
-mi-pagina/
-│
-├── index.html # Página principal
-├── style.css # Estilos del sitio
-├── script.js # Funciones dinámicas y animaciones
-└── img/ # Imágenes utilizadas
 
 ---
 
