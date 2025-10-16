@@ -61,7 +61,7 @@ Incluye:
 📫 **Conecta conmigo:**
 - [LinkedIn](https://www.linkedin.com/in/andres-felipe-diaz-campos-398245207/)
 - [GitHub](https://github.com/pipediaz1234)
-- ✉️ **Correo:** *andresfelipe.diaz.campos@gmail.com*
+- ✉️ **Correo:** *pipediazcampos1429@gmail.com*
 
 ---
 
